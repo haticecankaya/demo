@@ -1,7 +1,7 @@
 {
   "qa": [
     { "id": 1, "date": "12/23", "q1":"aralık 1.soru", "q2":"aralık 2.soru", "q3": "aralık 3.soru" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 2, "date": "01/24", "q1":"ocak 1.soru", "q2":"ocak 2.soru", "q3": "ocak 3.soru" },
+    { "id": 3, "date": "02/24", "q1":"şubat 1.soru", "q2":"şubat 2.soru", "q3": "şubat 3.soru" },
   ]
 }
